@@ -1,0 +1,18 @@
+.container{
+    text-align: center;
+    margin: 2px;
+    padding: 12px;
+}
+
+
+#new-places{
+   margin: 20px;
+    display: block;
+    
+    
+}
+
+.form-group{
+    margin: 12px
+    
+}
