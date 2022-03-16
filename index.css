@@ -1,13 +1,14 @@
-.container{
+ .container{
     text-align: center;
-    margin: 2px;
-    padding: 12px;
-}
+    padding: 1px;
+     }
+
 
 
 #new-places{
    margin: 20px;
     display: block;
+    text-align: center;
     
     
 }
